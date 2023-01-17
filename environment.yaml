@@ -1,0 +1,15 @@
+name: face-recognition
+channels:
+  - conda-forge
+  - pip
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - cmake
+  - dlib 
+  - pip:
+    - face-recognition
+    - cvzone
+    - firebase-admin
