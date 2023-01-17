@@ -5,7 +5,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Hassi34/Face-Attendance-System">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&c=g&size=18&duration=3000&pause=6000&multiline=True&center=true&width=800&height=40&lines=A+Vision+AI+based+project+to+detect+and+classify+the+faces+in+real-time;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&c=g&size=18&duration=3000&pause=6000&multiline=True&center=true&width=800&height=40&lines=A+Vision+AI+based+project+to+detect+and+classify+the+faces+in+realtime;" alt="Typing SVG" />
 </a>
 </p>
 <p align="center">
